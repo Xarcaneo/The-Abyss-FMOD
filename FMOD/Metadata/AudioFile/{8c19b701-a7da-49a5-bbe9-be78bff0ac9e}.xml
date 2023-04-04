@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8c19b701-a7da-49a5-bbe9-be78bff0ac9e}">
+		<property name="assetPath">
+			<value>SFX/Actors/Player/SFX_Player_Death.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.2529478458049885</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{196dd1bf-f7a1-4af4-aa34-fb01c338e80f}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -5,7 +5,7 @@
 			<value>PlayerEvents</value>
 		</property>
 		<relationship name="folder">
-			<destination>{ecc6665a-e8b3-4899-aa9b-37e3cf2e2d6d}</destination>
+			<destination>{594b58e0-bdf2-4489-89c7-17bfb428f39e}</destination>
 		</relationship>
 	</object>
 </objects>
