@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{6d6c119d-e9d3-4665-8f25-e207c30fe64d}">
 		<property name="assetPath">
-			<value>SFX/Actors/Player/SFX_Player_CheckpointInteraction.ogg</value>
+			<value>SFX/Interactables/SFX_Checkpoint_Interaction.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

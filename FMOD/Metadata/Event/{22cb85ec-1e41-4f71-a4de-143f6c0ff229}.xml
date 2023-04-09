@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{22cb85ec-1e41-4f71-a4de-143f6c0ff229}">
 		<property name="name">
-			<value>PlayerCheckpointInteraction</value>
+			<value>CheckpointInteraction</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>
 		</property>
 		<relationship name="folder">
-			<destination>{d3bbef5c-74b5-49b3-a741-17c34d9c6acf}</destination>
+			<destination>{766de3d4-04f0-47bd-9b32-8423a4ad7be3}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{0edbd0dc-b093-4e3c-bfd1-496c61a18fb0}</destination>
