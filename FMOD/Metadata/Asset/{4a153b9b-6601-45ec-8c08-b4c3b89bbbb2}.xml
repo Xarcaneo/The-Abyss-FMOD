@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{4a153b9b-6601-45ec-8c08-b4c3b89bbbb2}">
+		<property name="assetPath">
+			<value>SFX/Interactables/Trigger/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{196dd1bf-f7a1-4af4-aa34-fb01c338e80f}</destination>
+		</relationship>
+	</object>
+</objects>
