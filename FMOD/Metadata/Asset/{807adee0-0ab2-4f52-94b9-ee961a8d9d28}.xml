@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{807adee0-0ab2-4f52-94b9-ee961a8d9d28}">
+		<property name="assetPath">
+			<value>SFX/UI/Buttons/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b616fa1e-dce7-4e4b-a443-fd9bb64e7e5a}</destination>
+		</relationship>
+	</object>
+</objects>

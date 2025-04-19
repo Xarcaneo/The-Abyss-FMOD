@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
-	<object class="Workspace" id="{29af33bb-28c9-435a-94c3-0130c032c2d3}">
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{81114539-615b-4a58-b32e-b83a0f726650}">
 		<relationship name="projectSettings">
-			<destination>{2bd37ea6-8c98-46d9-9629-04f14b3cfbb2}</destination>
+			<destination>{e307690b-de85-4e23-9f57-0f294b5ba1bf}</destination>
 		</relationship>
 		<relationship name="changelist">
-			<destination>{8bfca1c0-18f5-411e-9efe-53f220647486}</destination>
+			<destination>{34d12a83-3ed5-49f1-b23a-6a269a77a68b}</destination>
 		</relationship>
 	</object>
-	<object class="ProjectSettings" id="{2bd37ea6-8c98-46d9-9629-04f14b3cfbb2}">
+	<object class="ProjectSettings" id="{e307690b-de85-4e23-9f57-0f294b5ba1bf}">
 		<property name="openWindows">
 			<value>Event Editor 1</value>
 		</property>
 		<property name="windowLayout">
-			<value>AAAAAwAAACAAUAByAGUAcwBlAHQAIABCAHIAbwB3AHMAZQByACAAMQAAAEIB2dDLAAMAAAAAAvcAAAB1AAAEiAAAA2sAAAL4AAAAmwAABIcAAANqAAAAAAAAAAAHgAAAAvgAAACbAAAEhwAAA2oAAAAOAE0AaQB4AGUAcgAgADEAAABCAdnQywADAAD/////////9wAAB4AAAAQGAAACgAAAARMAAAcNAAAD4gAAAAACAAAAB4AAAAAAAAAAHQAAB38AAAQFAAAAHABFAHYAZQBuAHQAIABFAGQAaQB0AG8AcgAgADEAAABCAdnQywADAAD/////////9wAAB4AAAAQGAAABwgAAAQ8AAAXhAAADoAAAAAACAAAAB4AAAAAAAAAAHQAAB38AAAQF</value>
+			<value>AAAABQAAABwARQB2AGUAbgB0ACAARQBkAGkAdABvAHIAIAAxAAAAQgHZ0MsAAwAAAAAAAP////kAAAX/AAADNwAAAcAAAACsAAAFvwAAAk8AAAAAAgAAAAYAAAAAAAAAABcAAAX/AAADNwAAAA4ATQBpAHgAZQByACAAMQAAAEIB2dDLAAMAAAAAAAD////5AAAF/wAAAzcAAAHAAAAArAAABb8AAAMGAAAAAAIAAAAGAAAAAAAAAAAXAAAF/wAAAzcAAAAeAE0AaQB4AGUAcgAgAFIAbwB1AHQAaQBuAGcAIAAxAAAAQgHZ0MsAAwAAAAACJAAAABkAAAOzAAADBgAAAiQAAAA3AAADswAAAwYAAAAAAAAAAAYAAAACJAAAADcAAAOzAAADBgAAACgAUABhAHIAYQBtAGUAdABlAHIAcwAgAEIAcgBvAHcAcwBlAHIAIAAxAAAAQgHZ0MsAAwAAAAACOAAAABYAAAPHAAADAwAAAjgAAAA0AAADxwAAAwMAAAAAAAAAAAYAAAACOAAAADQAAAPHAAADAwAAABQAUAByAG8AZgBpAGwAZQByACAAMQAAAEIB2dDLAAMAAAAAAAD////5AAAF/wAAAzcAAAHAAAAArAAABb8AAAJPAAAAAAIAAAAGAAAAAAAAAAAXAAAF/wAAAzc=</value>
 		</property>
 		<relationship name="activePlatform">
-			<destination>{52e6f560-b81f-4fa9-bc68-83a29513ac1b}</destination>
+			<destination>{bf5a0208-330d-471a-bc0d-a947f954a2ee}</destination>
 		</relationship>
 	</object>
-	<object class="WorkspaceChangelist" id="{8bfca1c0-18f5-411e-9efe-53f220647486}" />
+	<object class="WorkspaceChangelist" id="{34d12a83-3ed5-49f1-b23a-6a269a77a68b}" />
 </objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2b9d3b71-1d65-4012-9f04-e40c5f8eb062}">
+		<property name="assetPath">
+			<value>SFX/UI/Buttons/UI_Button_Focus_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.11891156462585034</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b616fa1e-dce7-4e4b-a443-fd9bb64e7e5a}</destination>
+		</relationship>
+	</object>
+</objects>
