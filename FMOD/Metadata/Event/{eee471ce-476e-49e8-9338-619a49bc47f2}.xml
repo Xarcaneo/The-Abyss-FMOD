@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{eee471ce-476e-49e8-9338-619a49bc47f2}">
 		<property name="name">
-			<value>UI_Slider_Move_01</value>
+			<value>UI_Slider_Move</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>

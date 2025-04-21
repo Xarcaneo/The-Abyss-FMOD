@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{4bba3bed-f3e4-4e0e-9165-3a066358d526}">
 		<property name="name">
-			<value>UI_Button_Focus_01</value>
+			<value>UI_Button_Focus</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>
@@ -76,7 +76,7 @@
 	</object>
 	<object class="SingleSound" id="{9cf7e25f-570b-4832-aefe-b94961aa4a2e}">
 		<property name="length">
-			<value>0.11891156462585034</value>
+			<value>0.10328798185941043</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{2b9d3b71-1d65-4012-9f04-e40c5f8eb062}</destination>
