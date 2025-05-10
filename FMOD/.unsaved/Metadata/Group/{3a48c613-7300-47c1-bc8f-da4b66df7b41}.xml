@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{3a48c613-7300-47c1-bc8f-da4b66df7b41}">
+		<property name="name">
+			<value>Optikira</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{61e62153-252f-49a6-9e59-f40ee6e49fa5}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{b9a60d40-dc7a-4500-95b6-cc2c2a22d81c}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{ff6452e0-bdec-4bd3-bf36-cc6cc9c68391}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{61e62153-252f-49a6-9e59-f40ee6e49fa5}">
+		<relationship name="effects">
+			<destination>{d01d1579-cce9-4c5a-8a13-e844c46f0c1b}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{b9a60d40-dc7a-4500-95b6-cc2c2a22d81c}" />
+	<object class="MixerBusFader" id="{d01d1579-cce9-4c5a-8a13-e844c46f0c1b}" />
+</objects>

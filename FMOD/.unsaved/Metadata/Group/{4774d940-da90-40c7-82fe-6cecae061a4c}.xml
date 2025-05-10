@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{4774d940-da90-40c7-82fe-6cecae061a4c}">
+		<property name="name">
+			<value>Oculon</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{d6bfa67c-a266-473a-a1dc-06d8511ab5cc}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{9bd29267-e093-4edf-83a7-cf47de70fad9}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{ff6452e0-bdec-4bd3-bf36-cc6cc9c68391}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{d6bfa67c-a266-473a-a1dc-06d8511ab5cc}">
+		<relationship name="effects">
+			<destination>{7e408e60-bf39-4e41-a28e-a931dc633348}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{9bd29267-e093-4edf-83a7-cf47de70fad9}" />
+	<object class="MixerBusFader" id="{7e408e60-bf39-4e41-a28e-a931dc633348}" />
+</objects>

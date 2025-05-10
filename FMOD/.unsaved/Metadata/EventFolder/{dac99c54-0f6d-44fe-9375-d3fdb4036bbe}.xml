@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{dac99c54-0f6d-44fe-9375-d3fdb4036bbe}">
+		<property name="name">
+			<value>Oculon</value>
+		</property>
+		<relationship name="folder">
+			<destination>{cec87c9c-26ea-4d5c-8791-f9eebb387d83}</destination>
+		</relationship>
+	</object>
+</objects>

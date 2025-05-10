@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{d02b3a3c-227b-4090-a82d-f2737c0835c5}">
+		<property name="name">
+			<value>Reaver</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{f0748b02-26a3-48d7-98bf-2de02bcb30be}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{08acba4e-5a95-41e9-b8a3-2fb564f4e9bf}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{ff6452e0-bdec-4bd3-bf36-cc6cc9c68391}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{f0748b02-26a3-48d7-98bf-2de02bcb30be}">
+		<relationship name="effects">
+			<destination>{9826da2d-c0c2-46bf-8203-4433790ea273}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{08acba4e-5a95-41e9-b8a3-2fb564f4e9bf}" />
+	<object class="MixerBusFader" id="{9826da2d-c0c2-46bf-8203-4433790ea273}" />
+</objects>

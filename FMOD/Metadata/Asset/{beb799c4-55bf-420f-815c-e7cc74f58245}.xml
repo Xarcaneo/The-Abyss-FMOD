@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{beb799c4-55bf-420f-815c-e7cc74f58245}">
+		<property name="assetPath">
+			<value>SFX/Characters/Oculon/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b616fa1e-dce7-4e4b-a443-fd9bb64e7e5a}</destination>
+		</relationship>
+	</object>
+</objects>
